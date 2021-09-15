@@ -1,0 +1,14 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 YEAR                          I4        
+ 2 DOY                           I4        
+ 3 Hour                          I3        
+ 4 Kp index                      I3        
+ 5 R (Sunspot No.)               I4        
+ 6 ap_index, nT                  I4        
+ 7 f10.7_index                   F6.1      
+ 8 AE-index, nT                  I5        
+ 9 AL-index, nT                  I6        
+10 AU-index, nT                  I6        
